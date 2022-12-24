@@ -26,7 +26,7 @@ I've experience creating and implementing front and back end web applications. L
  | --- | --- |
  | ![Digital Booking PI-DH](img/GH_DigitalBooking.png) | ![Tu Propia Historia](img/GH_CuentaHistoria.png) |
  | I share the result of the integration project within the framework of Digital House, I was a front-end developer, I used React & Hooks. | I share with you the result of an activity that consisted of telling a story choosing between options with React Js. |
- | [Ver repositorio](https://github.com/jonathangn/DigitalBooking-PIDH) - [Ver web](https://pi-digital-booking-fe.herokuapp.com)| [Ver repositorio](https://github.com/jonathangn/Propia-Historia) - [Ver web](https://github.com/jonathangn/Propia-Historia) |
+ | [Ver repositorio](https://github.com/jonathangn/DigitalBooking-PIDH) - [Ver web](https://ashy-moss-014864010.2.azurestaticapps.net)| [Ver repositorio](https://github.com/jonathangn/Propia-Historia) - [Ver web](https://github.com/jonathangn/Propia-Historia) |
 
 <br />
 <h2 align="center"><i>Languages, tools & stats 🚀</i></h2>
