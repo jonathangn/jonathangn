@@ -7,7 +7,7 @@ trusted, robust and efficient components is my goal 🙂.
 
 I have experience in front-end and back-end projects for web and mobile apps. I've worked with agile frameworks and really enjoy investing time updating knowledge and improving my skills. Nowadays, I learn about cyber security, hoping to create better products together.
 
-- 💻 **I’m currently looking for new opportunities and challenges as part of a multicultural team**.
+- 💻 **I’m currently looking for new opportunities and challenges as part of a multicultural team ¡Open to Work!**.
 </br>
 
 <div align="right"> 
