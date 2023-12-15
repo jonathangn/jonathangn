@@ -2,13 +2,14 @@
 
 <img src="https://github.com/jonathangn/jonathangn/blob/main/img/header.png"/>
 
-I'm passionate developer and designer from Colombia, qualified and acquainted with Ionic, Angular, Next, React, Node and Java. I'm solving problems oriented, logical and creative. Building better and better robust, lightweight, efficient and safe components is my goal as a permanent IT learner 🙂. Looking for bring my skills to a multicultural team in a company with global vision. 
+I'm passionate developer and designer from Colombia, qualified and acquainted with Ionic, Angular, Next, React, Node and Java. I'm solving problems oriented, logical and creative. Building better and better 
+lightweight, robust, safe and efficient components is my goal as a permanent IT learner 🙂. 
 
-I have experience in front-end and back-end projects, for web and mobile apps. I've worked with agile frameworks and really enjoy investing time updating knowledge and improving skills.
+I have experience in front-end and back-end projects for web and mobile apps. I've worked with agile frameworks and really enjoy investing time updating knowledge and improving skills.
 
-- 💻 I’m currently working by my own in digital small projects, designing and develop. **¡Open to work in an agile team!**.
+- 💻 **I’m currently looking for new opportunities and challenges as part of a multicultural team**.
 
-- 🎓 For now I am **front-end and Back-end specialist**. But my path continue, learning about cyber security. Hoping to create better code.
+- 🎓 My path continues, I learn about cyber security, hoping to create better products together.
 
 </br>
 
