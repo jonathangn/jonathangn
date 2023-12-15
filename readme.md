@@ -2,13 +2,13 @@
 
 <img src="https://github.com/jonathangn/jonathangn/blob/main/img/header.png"/>
 
-I'm passionate developer and designer from Colombia, currently using React and Java, I'm solving problems oriented, logic and creativity. Permanent apprentice of technologies. Make it works and looks good. easy to use and fast components is my goal 🙂.
+I'm passionate developer and designer from Colombia, qualified and acquainted with Ionic, Angular, Next, React, Node and Java. I'm solving problems oriented, logical and creative. Building better and better robust, lightweight, efficient and safe components is my goal as a permanent IT learner 🙂. Looking for bring my skills to a multicultural team in a company with global vision. 
 
-I've experience creating and implementing front and back end web applications. Looking to bring my skills to an inspirational company or startup with global reach. I've worked with SCRUM and Kanban meths. I really enjoy investing time in tech projects.
+I have experience in front-end and back-end projects, for web and mobile apps. I've worked with agile frameworks and really enjoy investing time updating knowledge and improving skills.
 
 - 💻 I’m currently working by my own in digital small projects, designing and develop. **¡Open to work in an agile team!**.
 
-- 🎓 Now I learn TypeScript, Redux and others. They are part of the **front end specialization** at Digital House.
+- 🎓 For now I am **front-end and Back-end specialist**. But my path continue, learning about cyber security. Hoping to create better code.
 
 </br>
 
