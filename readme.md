@@ -3,7 +3,7 @@
 <img src="https://github.com/jonathangn/jonathangn/blob/main/img/header.png"/>
 
 I'm passionate developer and designer from Colombia, qualified and acquainted with Ionic, Angular, Next, React, MySQL, Mongo, Node and Java. I'm solving problems oriented, logical and creative. Building better and better 
-trusted, robust and efficient components is my goal, as IT learner 🙂. 
+trusted, robust and efficient components is my goal 🙂. 
 
 I have experience in front-end and back-end projects for web and mobile apps. I've worked with agile frameworks and really enjoy investing time updating knowledge and improving my skills.
 
