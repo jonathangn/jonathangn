@@ -1,13 +1,20 @@
-<h1 align="left"><i>  hi 👋 I'm Jonathangn, welcome to my profile</i></h1>
+<!--<h1 align="left">hi 👋 I'm <i>jonathan</i>, welcome to my profile</h1>-->
 
 <img src="https://github.com/jonathangn/jonathangn/blob/main/img/header.png"/>
 
-I'm passionate developer and designer from Colombia, qualified and acquainted with Ionic, Angular, Next, React, MySQL, Mongo, Node and Java. I'm solving problems oriented, logical and creative. Building better and better 
-trusted, robust and efficient components is my goal 🙂. 
+## 🚀 About Me  
 
-I have experience in front-end and back-end projects for web and mobile apps. I've worked with agile frameworks and really enjoy investing time updating knowledge and improving my skills. Nowadays, I learn about cyber security, hoping to create better products together.
+I’m a **Full-Stack Developer** from Colombia with **2.5+ years of professional experience** building scalable web and mobile applications.  
+I specialize in frameworks like **Ionic, Angular, Next.js, and React**, and have worked with **Node.js, Java, MariaDB, MongoDB and AWS**.  
 
-- 💻 **I’m currently looking for new opportunities and challenges as part of a multicultural team ¡Open to Work!**.
+I’m passionate about solving problems through **clean, robust, and efficient solutions**, always combining **logical thinking** with **creative design**. I enjoy working with **agile methodologies**, collaborating in **multicultural teams**, and continuously sharpening my skills to deliver better products.  
+
+Currently, I’m exploring **smart contract development** and use cases of **AI in digital products**.  
+
+🌍 **Open to global opportunities** — eager to join an international team where I can grow and contribute.  
+
+💡 **Goal:** Keep building trusted, impactful products that make technology more accessible and enjoyable.  
+
 </br>
 
 <div align="right"> 
@@ -24,7 +31,7 @@ I have experience in front-end and back-end projects for web and mobile apps. I'
  | --- | --- |
  | ![Digital Booking PI-DH](img/GH_DigitalBooking.png) | ![Tu Propia Historia](img/GH_CuentaHistoria.png) |
  | I share the result of the integration project within the framework of Digital House, I was a front-end developer, I used React & Hooks. | I share with you the result of an activity that consisted of telling a story choosing between options with React Js. |
- | [Ver repositorio](https://github.com/jonathangn/DigitalBooking-PIDH) - [Ver web](https://ashy-moss-014864010.2.azurestaticapps.net)| [Ver repositorio](https://github.com/jonathangn/Propia-Historia) - [Ver web](http://jonathangn.github.io/Propia-Historia) |
+ | [Ver repositorio](https://github.com/jonathangn/DigitalBooking-PIDH) - [Ver web](https://white-sea-06a73cb0f.2.azurestaticapps.net)| [Ver repositorio](https://github.com/jonathangn/Propia-Historia) - [Ver web](http://jonathangn.github.io/Propia-Historia) |
 
 <br />
 <h2 align="center"><i>Languages, tools & stats 🚀</i></h2>
