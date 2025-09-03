@@ -1,11 +1,9 @@
-<!--<h1 align="left">hi 👋 I'm <i>jonathan</i>, welcome to my profile</h1>-->
-
-<img src="https://github.com/jonathangn/jonathangn/blob/main/img/header.png"/>
+<!--<h1 align="left">hi 👋 I'm <i>jonathan</i>, welcome to my profile</h1>
+<img src="https://github.com/jonathangn/jonathangn/blob/main/img/header.png"/>-->
 
 ## 🚀 About Me  
 
-I’m a **Full-Stack Developer** from Colombia with **2.5+ years of professional experience** building scalable web and mobile applications.  
-I specialize in frameworks like **Ionic, Angular, Next.js, and React**, and have worked with **Node.js, Java, MariaDB, MongoDB and AWS**.  
+I’m a **Full-Stack Developer** from Colombia with **2.5+ years of professional experience** building scalable web and mobile applications. I specialize in frameworks like **Ionic, Angular, Next.js, and React**, and have worked with **Node.js, Java, MariaDB, MongoDB and AWS**.  
 
 I’m passionate about solving problems through **clean, robust, and efficient solutions**, always combining **logical thinking** with **creative design**. I enjoy working with **agile methodologies**, collaborating in **multicultural teams**, and continuously sharpening my skills to deliver better products.  
 
