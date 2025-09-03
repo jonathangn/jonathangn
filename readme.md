@@ -1,7 +1,7 @@
 <!--<h1 align="left">hi 👋 I'm <i>jonathan</i>, welcome to my profile</h1>
 <img src="https://github.com/jonathangn/jonathangn/blob/main/img/header.png"/>-->
 
-## 🚀 About Me  
+## 👋 About Me  
 
 I’m a **Full-Stack Developer** from Colombia with **2.5+ years of professional experience** building scalable web and mobile applications. I specialize in frameworks like **Ionic, Angular, Next.js, and React**, and have worked with **Node.js, Java, MariaDB, MongoDB and AWS**.  
 
@@ -22,7 +22,7 @@ Currently, I’m exploring **smart contract development** and use cases of **AI 
  </div> 
 
 <br/>
-<h2 align="center"><i>Highlighted public projects 😁</i></h2>
+<h2 align="center">Public projects 💻</h2>
 <br/> 
 
  | [Digital Booking PI-DH](https://github.com/jonathangn/DigitalBooking-PIDH) | [Tu Propia Historia](https://github.com/jonathangn/Propia-Historia) |
@@ -32,7 +32,7 @@ Currently, I’m exploring **smart contract development** and use cases of **AI 
  | [Ver repositorio](https://github.com/jonathangn/DigitalBooking-PIDH) - [Ver web](https://white-sea-06a73cb0f.2.azurestaticapps.net)| [Ver repositorio](https://github.com/jonathangn/Propia-Historia) - [Ver web](http://jonathangn.github.io/Propia-Historia) |
 
 <br />
-<h2 align="center"><i>Languages, tools & stats 🚀</i></h2>
+<h2 align="center">Languages, tools & stats 🚀</h2>
 <br />
 
 <p align="center">
