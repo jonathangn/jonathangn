@@ -25,8 +25,8 @@ I’m passionate about solving problems through **clean, robust, and efficient s
 
  | [Digital Booking (F)](https://github.com/jonathangn/DigitalBooking-PIDH) | [MexFood Delivery (F)](https://github.com/jonathangn/app-delivery-mex) |
  | --- | --- |
- | ![Digital Booking PI-DH](img/GH_DigitalBooking.png) | ![Tu Propia Historia](img/GH_CuentaHistoria.png) |
- | This application created with React, allows you navigate and booking your next holidays | This e-commerce created with Next, was an MVP to validate an idea with a chef partner |
+ | ![Digital Booking](images/DigitalBooking.png) | ![MexFood Delivery](images/AppDeliveryMex.svg) |
+ | This application created with React, allows you book accommodation at your next destination | This e-commerce created with Next, lets you order fast food delivery for your next get-together |
  | [Ver repositorio](https://github.com/jonathangn/DigitalBooking-PIDH) - [Ver web](https://white-sea-06a73cb0f.2.azurestaticapps.net)| [Ver repositorio](https://github.com/jonathangn/app-delivery-mex) - [Ver web](https://app-delivery-mex.vercel.app/) |
 
 <h2>Stats 🌕</h2>
