@@ -7,7 +7,7 @@ I’m a **Full-Stack Developer** from Colombia with **2.5+ years of professional
 
 I’m passionate about solving problems through **clean, robust, and efficient solutions**, always combining **logical thinking** with **creative design**. I enjoy working with **agile methodologies**, collaborating in **multicultural teams**, and continuously sharpening my skills to deliver better products.  
 
-Currently, I’m exploring **smart contract development** and use cases of **AI in digital products**.  
+🎓 Currently, I’m exploring **smart contract development** and use cases of **AI in digital products**.  
 
 🌍 **Open to global opportunities** — eager to join an international team where I can grow and contribute.  
 
