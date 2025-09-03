@@ -6,7 +6,7 @@ I’m passionate about solving problems through **clean, robust, and efficient s
 
 🎓 Currently, I’m exploring **smart contract development** and use cases of **AI in digital products**.  
 
-🌍 **Open to global opportunities** — eager to join an international team where I can grow and contribute.  
+🌍 **Open to global opportunities**, eager to join an international team where I can grow and contribute.  
 
 💡 **Goal:** Keep building trusted, impactful products that make technology more accessible and enjoyable.  
 
