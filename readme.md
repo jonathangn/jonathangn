@@ -1,14 +1,10 @@
 ## 👋 About Me  
 
-I’m a **Full-Stack Developer** from Colombia with **2.5+ years of professional experience** building scalable web and mobile applications. I specialize in frameworks like **Ionic, Angular, Next.js, and React**, and have worked with **Node.js, Java, MariaDB, MongoDB and AWS**.  
+**Full-Stack developer, front-end specialist**, 3 years of experience boosting scalable **fintech's** cross-platform applications. Knows in **Ionic, Angular, React Native, Next.js, Nest, SpringBoot, Python, SQL, NoSQL**. I have deployed over **AWS, Vercel and Azure**. I’m passionate about solving problems through **clean, robust, and efficient solutions**, always combining **logical thinking** with **creative design**. I enjoy working with agile methodologies, collaborating in **multicultural teams**, and continuously sharpening my skills to deliver better products. I hope to keep building trusted, impactful products that make experiences more accessible and enjoyable.
 
-I’m passionate about solving problems through **clean, robust, and efficient solutions**, always combining **logical thinking** with **creative design**. I enjoy working with **agile methodologies**, collaborating in **multicultural teams**, and continuously sharpening my skills to deliver better products.  
+🎓 Currently, I’m learning about **AI development** and **Web3**
 
-🎓 Currently, I’m exploring **smart contract development** and use cases of **AI in digital products**.  
-
-🌍 **Open to global opportunities**, eager to join an international team where I can grow and contribute.  
-
-💡 **Goal:** Keep building trusted, impactful products that make technology more accessible and enjoyable.  
+🌍 Open to **global opportunities**
 
 </br>
 
