@@ -33,5 +33,3 @@ My expertise focuses on **Angular, React, Next.js, Design Systems, and modern fu
  | This application created with React, allows you book accommodation at your next destination | This e-commerce created with Next, lets you order fast food delivery for your next get-together |
  | [Ver repositorio](https://github.com/jonathangn/DigitalBooking-PIDH) - [Ver web](https://white-sea-06a73cb0f.2.azurestaticapps.net)| [Ver repositorio](https://github.com/jonathangn/app-delivery-mex) - [Ver web](https://app-delivery-mex.vercel.app/) |
 
-<h2>Stats 🌕</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangn&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
