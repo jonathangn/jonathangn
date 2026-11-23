@@ -18,7 +18,7 @@ I've spent 5+ years building software for clients, and the last 3+ shipping FinT
 - **Mobile:** Ionic, Capacitor (Android/iOS), React Native / Expo
 - **Back-end:** Node.js, Express, REST, Java, Spring Boot, Strapi
 - **AI & data:** LLM integrations, MCP, vector memory (LanceDB), Ollama, Python, scikit-learn, TensorFlow/Keras
-- **Cloud:** AWS (FinTech production at IMIX and Digital House projects), Azure, Heroku, Firebase, Vercel (client deployments), Oracle Cloud (OCI, Oracle ONE training)
+- **Cloud:** AWS (FinTech production at IMIX and Digital House projects), VPS, Azure, Heroku, Firebase, Vercel (client deployments), Oracle Cloud (OCI, Oracle ONE training)
 - **Delivery:** Docker, Jenkins, Azure DevOps, Nx, Vitest, Playwright, Git
 
 ### Learning & recognition
